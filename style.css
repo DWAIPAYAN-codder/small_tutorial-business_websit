@@ -1,0 +1,16 @@
+#logo {
+   background: url(header2.jpg);
+   height:84px;
+   width: auto;
+   float: center;
+}   
+
+.container{
+     width:800px;
+     margin: red ;
+}
+
+.sideber {
+      color:#044055;
+}
+                        
